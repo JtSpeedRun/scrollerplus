@@ -9,7 +9,7 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "ScrollerPlus.ts"
+        "Scroller-Plus.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -21,5 +21,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
